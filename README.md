@@ -100,4 +100,14 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 
 ## Referências
 
+#### Git book do TypeOrm
+https://orkhan.gitbook.io/typeorm
+
+#### Repo de exemplo
 https://github.com/stuyy/nestjs-typeorm-mysql-course-repository/blob/master/src/users/services/users/users.service.ts
+
+#### Documentação do typeorm
+https://typeorm-legacy.productsway.com/
+
+#### Documentação Luxon - Biblioteca de tempo
+https://moment.github.io/luxon/#/?id=luxon
