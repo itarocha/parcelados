@@ -109,5 +109,7 @@ https://github.com/stuyy/nestjs-typeorm-mysql-course-repository/blob/master/src/
 #### Documentação do typeorm
 https://typeorm-legacy.productsway.com/
 
+https://typeorm.io/
+
 #### Documentação Luxon - Biblioteca de tempo
 https://moment.github.io/luxon/#/?id=luxon
